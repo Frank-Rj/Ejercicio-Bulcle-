@@ -1,0 +1,421 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\Vistas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\DatosM\\DatosM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\DatosM\\DatosM.csproj",
+        "projectName": "DatosM",
+        "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\DatosM\\DatosM.csproj",
+        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\DatosM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj",
+        "projectName": "EntidadesM",
+        "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj",
+        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\NegociosM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\NegociosM.csproj",
+        "projectName": "NegociosM",
+        "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\NegociosM.csproj",
+        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\DatosM\\DatosM.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\DatosM\\DatosM.csproj"
+              },
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\Negocios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\Negocios.csproj",
+        "projectName": "Negocios",
+        "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\Negocios.csproj",
+        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Datos\\Datos.csproj"
+              },
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\Vistas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\Vistas.csproj",
+        "projectName": "Vistas",
+        "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\Vistas.csproj",
+        "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj"
+              },
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\NegociosM.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\NegociosM.csproj"
+              },
+              "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\Negocios.csproj": {
+                "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\Negocios.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

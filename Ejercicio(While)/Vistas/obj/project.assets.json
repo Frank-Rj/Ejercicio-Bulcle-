@@ -1,0 +1,191 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Datos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datos.dll": {}
+        }
+      },
+      "DatosM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "EntidadesM": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DatosM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DatosM.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      },
+      "EntidadesM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/EntidadesM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesM.dll": {}
+        }
+      },
+      "Negocios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Datos": "1.0.0",
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Negocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Negocios.dll": {}
+        }
+      },
+      "NegociosM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DatosM": "1.0.0",
+          "EntidadesM": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NegociosM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NegociosM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datos/1.0.0": {
+      "type": "project",
+      "path": "../Datos/Datos.csproj",
+      "msbuildProject": "../Datos/Datos.csproj"
+    },
+    "DatosM/1.0.0": {
+      "type": "project",
+      "path": "../DatosM/DatosM.csproj",
+      "msbuildProject": "../DatosM/DatosM.csproj"
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "EntidadesM/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesM/EntidadesM.csproj",
+      "msbuildProject": "../EntidadesM/EntidadesM.csproj"
+    },
+    "Negocios/1.0.0": {
+      "type": "project",
+      "path": "../Negocios/Negocios.csproj",
+      "msbuildProject": "../Negocios/Negocios.csproj"
+    },
+    "NegociosM/1.0.0": {
+      "type": "project",
+      "path": "../NegociosM/NegociosM.csproj",
+      "msbuildProject": "../NegociosM/NegociosM.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Entidades >= 1.0.0",
+      "EntidadesM >= 1.0.0",
+      "Negocios >= 1.0.0",
+      "NegociosM >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Español\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\Vistas.csproj",
+      "projectName": "Vistas",
+      "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\Vistas.csproj",
+      "packagesPath": "C:\\Users\\Español\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Vistas\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Español\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj": {
+              "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\EntidadesM\\EntidadesM.csproj"
+            },
+            "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\NegociosM.csproj": {
+              "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\NegociosM\\NegociosM.csproj"
+            },
+            "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\Negocios.csproj": {
+              "projectPath": "C:\\Users\\Español\\Desktop\\+UNAB+\\POO\\Visual Studio 2019\\Ejercicio(While)\\Negocios\\Negocios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

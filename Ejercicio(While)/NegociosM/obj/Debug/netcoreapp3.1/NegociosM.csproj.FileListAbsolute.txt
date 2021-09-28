@@ -1,0 +1,15 @@
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\bin\Debug\netcoreapp3.1\NegociosM.deps.json
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\bin\Debug\netcoreapp3.1\NegociosM.dll
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\bin\Debug\netcoreapp3.1\NegociosM.pdb
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\bin\Debug\netcoreapp3.1\DatosM.dll
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\bin\Debug\netcoreapp3.1\EntidadesM.dll
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\bin\Debug\netcoreapp3.1\DatosM.pdb
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\bin\Debug\netcoreapp3.1\EntidadesM.pdb
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.csproj.AssemblyReference.cache
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.AssemblyInfoInputs.cache
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.AssemblyInfo.cs
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.csproj.CoreCompileInputs.cache
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.csproj.CopyComplete
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.dll
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\NegociosM\obj\Debug\netcoreapp3.1\NegociosM.pdb

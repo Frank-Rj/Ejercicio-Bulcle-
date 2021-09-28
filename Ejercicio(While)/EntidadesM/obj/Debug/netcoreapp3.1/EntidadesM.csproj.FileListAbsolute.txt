@@ -1,0 +1,9 @@
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\bin\Debug\netcoreapp3.1\EntidadesM.deps.json
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\bin\Debug\netcoreapp3.1\EntidadesM.dll
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\bin\Debug\netcoreapp3.1\EntidadesM.pdb
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\obj\Debug\netcoreapp3.1\EntidadesM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\obj\Debug\netcoreapp3.1\EntidadesM.AssemblyInfoInputs.cache
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\obj\Debug\netcoreapp3.1\EntidadesM.AssemblyInfo.cs
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\obj\Debug\netcoreapp3.1\EntidadesM.csproj.CoreCompileInputs.cache
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\obj\Debug\netcoreapp3.1\EntidadesM.dll
+C:\Users\Español\Desktop\+UNAB+\POO\Visual Studio 2019\Ejercicio(While)\EntidadesM\obj\Debug\netcoreapp3.1\EntidadesM.pdb

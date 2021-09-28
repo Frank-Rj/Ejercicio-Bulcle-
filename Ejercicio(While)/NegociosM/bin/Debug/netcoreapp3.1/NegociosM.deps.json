@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NegociosM/1.0.0": {
+        "dependencies": {
+          "DatosM": "1.0.0",
+          "EntidadesM": "1.0.0"
+        },
+        "runtime": {
+          "NegociosM.dll": {}
+        }
+      },
+      "DatosM/1.0.0": {
+        "dependencies": {
+          "EntidadesM": "1.0.0"
+        },
+        "runtime": {
+          "DatosM.dll": {}
+        }
+      },
+      "EntidadesM/1.0.0": {
+        "runtime": {
+          "EntidadesM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NegociosM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DatosM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
